@@ -1,10 +1,10 @@
-###Hi there! 👋 I'm Shraddha Kedare###
+### Hi there! 👋 I'm Shraddha Kedare ###
 
 🚀 About Me
 
 I'm a passionate Python Developer with experience in Machine Learning, Data Science, Computer Vision, and Web Development. I enjoy solving complex problems, optimizing algorithms, and building scalable applications.
 
-💻 Tech Stack
+### 💻 Tech Stack ###
 
 Programming Languages: Python
 
@@ -18,7 +18,7 @@ Data Analytics: PowerBI, Matplotlib, Seaborn
 
 Tools: Git, GitHub, Postman, Selenium, Scrapy, BeautifulSoup
 
-🔥 Projects
+### 🔥 Projects ###
 
 🤖 Face Matching using GenAI
 
